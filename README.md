@@ -1,2 +1,17 @@
 # CrossyClone
  
+## Team
+
+Codixy
+
+## Members
+
+THOMAS SMITH
+
+TONY LOPEZ
+
+IVAN PARRALES
+
+VINCENT DEAUGUSTINE
+
+BRYAN LORENTZ
